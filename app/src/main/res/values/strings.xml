@@ -1,0 +1,56 @@
+<resources>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Masuk</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="error_invalid_email">Email tidak valid</string>
+    <string name="error_invalid_password">Password terlalu pendek</string>
+    <string name="error_incorrect_password">Password yang anda masukkan salah</string>
+    <string name="error_field_required">Harus diisi !</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="app_name">Group Chat</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Masuk">Masuk</string>
+    <string name="daftar">Daftar</string>
+    <string name="nama">Nama</string>
+    <string name="no_hp">Telepon</string>
+    <string name="kembali">Kembali</string>
+    <string name="gc1">Group 1</string>
+    <string name="gc2">Group 2</string>
+    <string name="gc3">Group 3</string>
+    <string name="gc4">Group 4</string>
+    <string name="gc5">Group 5</string>
+    <string name="gc6">Group 6</string>
+    <string name="gc7">Group 7</string>
+    <string name="gc8">Group 8</string>
+    <string name="gc9">Group 9</string>
+    <string name="gc10">Group 10</string>
+    <string name="gc11">Group 11</string>
+    <string name="gc12">Group 12</string>
+    <string name="gc13">Group 13</string>
+    <string name="gc14">Group 14</string>
+    <string name="gc15">Group 15</string>
+    <string name="gc16">Group 16</string>
+    <string name="gc17">Group 17</string>
+    <string name="gc18">Group 18</string>
+    <string name="gc19">Group 19</string>
+    <string name="gc20">Group 20</string>
+    <string name="ch1">Test satu dua tiga</string>
+
+    <string name="none">Tidak Ada Data</string>
+    <string name="edit">Ubah Profile</string>
+
+    <string name="Notifikasi">Notifikasi</string>
+    <string name="suara">Suara</string>
+    <string name="getar">Getar</string>
+    <string name="passcode">Passcode Lock</string>
+    <string name="mute">Mute</string>
+    <string name="led">LED</string>
+    <string name="off">Offline Mode</string>
+    <string name="pl">Pengaturan Tambahan</string>
+    <string name="logout">Keluar</string>
+</resources>
