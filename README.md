@@ -20,6 +20,8 @@ This application has a login autentication with 3 step verification from the API
 ~ API's with CodeIgniter Framework<p>
 ~ SharedPreferences<p>
 ~ RecyclerView<p>
+  
+<hr>
 
-Stay tune at this repository to get updates every weeks<p>
-Regards Our Lovely team<p>
+Stay tune at this repository to get updates every weeks.<p>
+Regards Our Lovely team :*<p>
