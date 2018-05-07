@@ -14,7 +14,7 @@ This application has a login autentication with 3 step verification from the API
   
 <hr>
 
-<b>This is a couple of references third party's library and other things that we used to make this application :</b><p>
+<b>This is a couple of references third party's library and other things that we use to make this application :</b><p>
 ~ retrofit 2<p>
 ~ viewpager with sliding tabs<p>
 ~ API's with CodeIgniter Framework<p>
